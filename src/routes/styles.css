@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+   scrollbar-gutter: stable;
+}
+
+:root, html, body {
+   scroll-behavior: smooth;
+}
