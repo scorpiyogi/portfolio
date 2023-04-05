@@ -116,10 +116,4 @@
 	Ethereum: <span class="text-gray-300">Gaurav.eth</span>
 </p>
 
-<a href="https://www.buymeacoffee.com/Gaurav" target="_blank"
-	><img
-		src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-		alt="Buy Me A Coffee"
-		style="height: 40px !important; margin-top: 11px"
-	/></a
->
+ 
