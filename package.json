@@ -2,7 +2,7 @@
 	"name": "port",
 	"version": "0.0.1",
 	"engines": {
-		"node": "22.x"
+		"node": ">=22 <26"
 	},
 	"scripts": {
 		"dev": "vite dev",
