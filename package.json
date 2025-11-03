@@ -1,10 +1,12 @@
 {
 	"name": "port",
 	"version": "0.0.1",
+	"packageManager": "pnpm@10.20.0",
 	"engines": {
 		"node": ">=22 <26"
 	},
 	"scripts": {
+		"prepare": "pnpm install --lockfile-only",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
